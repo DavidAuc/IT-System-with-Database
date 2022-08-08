@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Production
+=======
+# Development
+>>>>>>> b219ede664a8528cf716272aec696c50ccf298b7
 Database with user interface to satisfy user requirements and easily access data and support decisions. 
 
 The problems this project solves include:
