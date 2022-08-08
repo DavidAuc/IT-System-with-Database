@@ -1,0 +1,89 @@
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.exe.config
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.exe
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.pdb
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csprojAssemblyReference.cache
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Properties.Resources.resources
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.GenerateResource.cache
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.CoreCompileInputs.cache
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.exe
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.pdb
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.DataBaseMaintenanceForm.resources
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csprojAssemblyReference.cache
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.DataBaseMaintenanceForm.resources
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Form1.resources
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Properties.Resources.resources
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Reports.resources
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.GenerateResource.cache
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.CoreCompileInputs.cache
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.exe
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.pdb
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.exe.config
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.exe
+C:\Users\Heinrich\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.pdb
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.exe.config
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.exe
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.pdb
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csprojAssemblyReference.cache
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.BuyOrSell.resources
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.DataBaseMaintenanceForm.resources
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Form1.resources
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Properties.Resources.resources
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Reports.resources
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.TextbookExchangeForm.resources
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.GenerateResource.cache
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.CoreCompileInputs.cache
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.exe
+C:\Users\Sentrum\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.pdb
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\AccountsDB.mdf
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\AccountsDB_log.ldf
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\LoginFrm.resx
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\LoginFrm.cs
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\LoginFrm.Designer.cs
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.exe.config
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.exe
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.pdb
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.AssemblyReference.cache
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.BuyOrSell.resources
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.DataBaseMaintenanceForm.resources
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.LoginFrm.resources
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Properties.Resources.resources
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.RegisterFrm.resources
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Reports.resources
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.TextbookExchangeForm.resources
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.GenerateResource.cache
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.CoreCompileInputs.cache
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.exe
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.pdb
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\AccountsDB.mdf
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\AccountsDB_log.ldf
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\LoginFrm.resx
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\LoginFrm.cs
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\LoginFrm.Designer.cs
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.exe.config
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.exe
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\CMPG223_Group15.pdb
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.BuyOrSell.resources
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.DataBaseMaintenanceForm.resources
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.LoginFrm.resources
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Properties.Resources.resources
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.RegisterFrm.resources
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Reports.resources
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.TextbookExchangeForm.resources
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.exe
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.pdb
+C:\Users\User\Desktop\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Main.resources
+D:\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Main.resources
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\AccountsDB.mdf
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\AccountsDB_log.ldf
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\LoginFrm.resx
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\LoginFrm.cs
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\bin\Debug\LoginFrm.Designer.cs
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.BuyOrSell.resources
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Main.resources
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.LoginFrm.resources
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.RegisterFrm.resources
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.Reports.resources
+C:\Users\David Aucamp\Documents\GitHub\CMPG-223\CMPG223_Group15\CMPG223_Group15\obj\Debug\CMPG223_Group15.TextbookExchangeForm.resources
